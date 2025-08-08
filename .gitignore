@@ -20,3 +20,4 @@ base_library.zip
 warn-*.txt
 xref-*.html
 localpycs/
+.env
